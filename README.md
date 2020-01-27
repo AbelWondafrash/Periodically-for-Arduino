@@ -2,6 +2,7 @@
 🎈 A breezy - air light class for Arduino that eliminates fundamental issues with the in-built function delay ().
 
 
+
 # 🐢 delay () kinda sucks!
 A lot actually. Using delay() has usually has unintended sideeffect of freezing everything. Whether you come from Arduino or Processing, it is only on certain situations that delay () becomes useful. In the way it works, Arduino or your Computer does nothing for a while when delay () runs. When it is the case that you want to run multiple indpendent things with their own time, using delay () won't do.
 
